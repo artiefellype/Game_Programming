@@ -1,10 +1,8 @@
 <h1 align="center">Game_Programming</h1>
 <p align="center">Destinado a matéria de programação de jogos oferecida pelo professor Judson Santiago  || 2022.1 ||</p>
-GITHUB JudsonSS-> <a href="https://github.com/JudsonSS">Judson Santiago</a>
-</div>
+<p align="center">GITHUB JudsonSS-> <a href="https://github.com/JudsonSS">Judson Santiago</a></p>
 
 
-<h2 align="center">🛠🛠----------------🛠🛠</h2>
 
 <p align="center">As seguintes ferramentas foram usadas na construção do projeto:</p>
 
