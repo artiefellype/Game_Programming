@@ -10,7 +10,6 @@
 
 Criado por Artiefellype 👋🏽
 
-<a href="https://www.instagram.com/arthur_f18">@arthur_f18</a>
 </div>
 
 

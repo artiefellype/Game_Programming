@@ -1,7 +1,0 @@
-﻿  Ball.cpp
-C:\Users\arthu\Downloads\Lab09\Lab09\Breakout\Breakout\Ball.cpp(22,74): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
-  Breakout.cpp
-  Player.cpp
-C:\Users\arthu\Downloads\Lab09\Lab09\Breakout\Breakout\Player.cpp(32,26): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
-  Gerando Código...
-  Breakout.vcxproj -> C:\Users\arthu\Downloads\Lab09\Lab09\Breakout\x64\Debug\Breakout.exe
